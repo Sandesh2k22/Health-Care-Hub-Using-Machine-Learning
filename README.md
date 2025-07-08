@@ -1,5 +1,5 @@
 🩺 Medical Recommendation System
-This is a web-based healthcare platform that uses a machine learning model to predict diseases based on user-input symptoms. It then provides the user with the predicted disease description, precautions, medications, recommended diet, and workout routines.
+This is a web-based healthcare platform that uses a machine learning model to predict diseases based on user-input symptoms. It then provides the user with the predicted disease description, precautions, medications, recommended diet and workout routines.
 📁 Features
 •	Predicts disease from symptoms using an SVC model.
 •	Provides:
@@ -9,7 +9,7 @@ o	Medications
 o	Diet Recommendations
 o	Workouts
 •	User-friendly web interface built with Flask.
-•	Additional Pages: About, Contact, Developer Info, Blog, Google Map Integration, and a Healthcare Bot.
+•	Additional Pages: About, Contact, Developer Info, Blog, Google Map Integration and a Healthcare Bot.
 🛠️ Tech Stack
 •	Backend: Python, Flask
 •	Frontend: HTML, CSS, JS (via Jinja2 templates)
